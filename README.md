@@ -1,6 +1,7 @@
 # ORN-WL-gain-control
 
-This code allows exploration of coding and decoding fidelity of *Drosophila* olfactory ORNs, using a biophysical model of ORN sensing and either compressed sensing decoding or classification tasks for decoding. 
+This code allows exploration of coding and decoding fidelity of *Drosophila* olfactory ORNs, using a biophysical model of ORN sensing and either compressed sensing decoding or classification tasks for decoding. This code is associated with the paper from Kadakia and Emonet, "Front-end Weber-Fechner gain control enhances the fidelity of combinatorial odor coding". eLife, 2019. http://dx.doi.org/10.7554/eLife.45293
+
 
 ## Getting Started
 
